@@ -62,3 +62,12 @@ gem "devise", "~> 4.9"
 gem "tailwind_devise", "~> 0.0.1"
 
 gem 'turbo-rails'
+
+gem 'trix'
+
+gem 'ckeditor'
+
+gem 'stimulus-rails'
+
+gem 'importmap-rails'
+
